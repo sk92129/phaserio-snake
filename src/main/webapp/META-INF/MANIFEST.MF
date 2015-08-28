@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: Phaser IO JavaScript WebGame
+Implementation-Version: 1.0
+Built-By: seankang
+Implementation-Vendor-Id: com.seankang.javascript
+Build-Jdk: 1.8.0_45
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
